@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Kauã Everton
 
 **`Desenvolvedor Full Stack`**
+
 Me chamo Kauã Everton de Lira, tenho 16 anos e sou natural de São Paulo. Concluí o ensino médio Jardim Arco Íris, com o curso técnico em Análise e Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia, atuando nas áreas de programção e design gráfico.
 
 <p align="left">
