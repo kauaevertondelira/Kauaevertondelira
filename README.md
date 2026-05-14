@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Kauã Everton de Lira, tenho 16 anos e sou natural de São Paulo. Concluí o ensino médio Jardim Arco Íris, com o curso técnico em Análise e Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia, atuando nas áreas de programção e design gráfico.
+Estudante de Análise e Desenvolvimento de Sistemas no SENAI Manuel Garcia Filho, com foco em desenvolvimento web, lógica de programação e construção de soluções digitais modernas.
+Durante minha formação, venho desenvolvendo conhecimentos em JavaScript, Python, banco de dados SQL, versionamento com Git/GitHub, APIs REST e desenvolvimento de interfaces web. Também possuo interesse em design aplicado à tecnologia, automação e experiência do usuário.
+Busco constantemente evoluir minhas habilidades técnicas através de projetos práticos, estudos complementares e desafios que fortaleçam minha capacidade analítica e criativa na área da tecnologia.
 
 <p align="left">
   <a href="https://github.com/kauaevertondelira?tab=repositories&sort=stargazers">
