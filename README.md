@@ -17,4 +17,4 @@ Web and desktop applications | AI | cloud computing | APIs | software architectu
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/kauanbol/) · [contato.barbosakauan@gmail.com](mailto:contato.barbosakauan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kauaevertondelira/) · [kauaevertondelira@gmail.com](mailto:kauaevertondelira@gmail.com)
