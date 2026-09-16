@@ -2,7 +2,9 @@
 
 I am a Full-Stack Developer studying Systems Development at SENAI Diadema. I work across interface, application logic, and database layers, building software with REST APIs, Firebase integrations, relational data models, and responsive layouts.
 
-I learn through implementation. I like tracing a feature from the screen to the database, understanding each decision along the way, and testing different approaches before settling on one. Working across the full stack helps me see how choices in one layer affect the rest of the system.
+I learn through hands-on practice, directly during implementation. I like to trace every feature from the UI, paying special attention to functions and component rendering to maximize the user experience (UI/UX). Evaluating choices at each stage and experimenting with different scenarios gives me a broad perspective on how every development detail impacts the application's final architecture.
+
+
 
 ### Development interests
 
