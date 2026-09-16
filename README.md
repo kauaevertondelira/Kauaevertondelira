@@ -17,4 +17,4 @@ Web and desktop applications | AI | cloud computing | APIs | software architectu
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/kauaevertondelira/) · [kauaevertondelira@gmail.com](mailto:kauaevertondelira@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kau%C3%A3-everton-de-lira-776b4637b/) · [kauaevertondelira@gmail.com](mailto:kauaevertondelira@gmail.com)
