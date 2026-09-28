@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=160&section=header&text=FULL-STACK%20DEVELOPER&fontSize=38&fontColor=00F2FE&animation=fadeIn](https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=160&section=header&text=FULL-STACK%20DEVELOPER&fontSize=38&fontColor=00F2FE&animation=fadeIn)" width="100%" />
 
-  <a href="[https://github.com/seu-usuario](https://github.com/seu-usuario)">
-    <img src="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=17&pause=2000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aplica%C3%A7%C3%B5es+Web+%7C+Intelig%C3%AAncia+Artificial;Estrutura%C3%A7%C3%A3o+de+Banco+de+Dados+%7C+Automa%C3%A7%C3%A3o;Design+de+Interfaces+%26+Arquitetura+UI%2FUX](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=17&pause=2000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aplica%C3%A7%C3%B5es+Web+%7C+Intelig%C3%AAncia+Artificial;Estrutura%C3%A7%C3%A3o+de+Banco+de+Dados+%7C+Automa%C3%A7%C3%A3o;Design+de+Interfaces+%26+Arquitetura+UI%2FUX)" alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
 
 ### Sobre Mim
 
