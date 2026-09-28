@@ -1,22 +1,42 @@
-### About me
+<h1 align="center">Olá. Eu sou o [Seu Nome]</h1>
 
-I am a Full-Stack Developer studying Systems Development at SENAI Diadema. I work across interface, application logic, and database layers, building software with REST APIs, Firebase integrations, relational data models, and responsive layouts.
+<p align="center">
+  <a href="https://github.com/seu-usuario">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=400&size=20&pause=2000&color=666666&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack;Web+%7C+IA+%7C+Banco+de+Dados;Automação+de+Sistemas;Design+e+Interfaces" alt="Typing SVG" />
+  </a>
+</p>
 
-I learn through hands-on practice, directly during implementation. I like to trace every feature from the UI, paying special attention to functions and component rendering to maximize the user experience (UI/UX). Evaluating choices at each stage and experimenting with different scenarios gives me a broad perspective on how every development detail impacts the application's final architecture.
+<br>
 
+### Sobre mim
 
+Sou desenvolvedor full-stack e estudante de Desenvolvimento de Sistemas no SENAI Diadema. Gosto de atuar de ponta a ponta: construindo desde a interface e o design, até a lógica da aplicação, integrações com APIs REST, Firebase e modelagem de dados relacionais.
 
-### Development interests
+Minha principal forma de aprender é na prática, sujando as mãos no código durante a implementação. Costumo rastrear o caminho de cada funcionalidade na aplicação — da renderização do componente visual até o banco de dados. Analisar esses processos e testar diferentes cenários é o que me dá uma visão mais madura de como cada escolha técnica impacta a arquitetura final do software e a experiência do usuário (UI/UX).
 
-Web and desktop applications | AI | cloud computing | APIs | software architecture
+<br>
 
-### Tech Stack
+### O que tenho explorado
 
-| Languages & Web | Databases & Services | Tools & Environment |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"><br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" alt="SQL"><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"><br><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"> |  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"><br> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"> |
+Tenho bastante curiosidade em entender como as coisas funcionam por trás dos panos e como deixá-las mais eficientes e visualmente agradáveis. Atualmente, meus principais focos de desenvolvimento e estudo são:
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" align="center"/> <b>Aplicações Web:</b> Desenvolvimento de sistemas funcionais e responsivos.<br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" align="center"/> <b>Inteligência Artificial:</b> Integração de modelos de linguagem e soluções em IA.<br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Database" width="25" height="25" align="center"/> <b>Estruturação de Banco de Dados:</b> Modelagem relacional e estruturação eficiente de dados.<br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" align="center"/> <b>Automação de Sistemas:</b> Criação de fluxos para otimizar processos e reduzir trabalho manual.<br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="25" height="25" align="center"/> <b>Design (UI/UX):</b> Curiosidade e prática no desenvolvimento de layouts e protótipos de interface.
+</p>
 
-### Contact
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/kau%C3%A3-everton-de-lira-776b4637b/) · [kauaevertondelira@gmail.com](mailto:kauaevertondelira@gmail.com)
+### Tecnologias e Ferramentas
+
+Trabalho frequentemente com tecnologias voltadas para Cloud Computing, consumo de APIs, arquitetura de software e design de interfaces. O ecossistema no qual costumo transitar envolve desde o planejamento lógico da aplicação até a entrega do layout final.
+
+<br>
+
+<p align="center">
+  <!-- Substitua pelos badges das linguagens reais que você usa. Exemplo abaixo: -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,firebase,mysql,figma&perline=9" />
+</p>
