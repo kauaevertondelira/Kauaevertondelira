@@ -12,7 +12,7 @@
 
 Sou desenvolvedor Full-Stack e estudante de **Desenvolvimento de Sistemas no SENAI Diadema**. Minha atuação cobre desde a concepção de interfaces responsivas até a lógica de negócios e persistência de dados.
 
-Meu aprendizado ocorre diretamente na prática durante a implementação. Tenho a disciplina de rastrear cada funcionalidade a partir da UI, analisando a renderização de componentes e o fluxo de dados até o banco de dados. Testar cenários em cada camada me proporciona uma visão clara sobre como decisões detalhadas moldam a arquitetura final da aplicação.
+Desenvolvo com foco prático, mapeando o caminho de cada funcionalidade do front-end ao banco de dados. Testar hipóteses e diferentes cenários durante a escrita do código me proporciona a visão sistêmica necessária para garantir que pequenos detalhes sustentem a arquitetura final da aplicação.
 
 Além do desenvolvimento técnico, cultivo forte curiosidade pelo campo de **Design**, projetando interfaces que equilibram usabilidade, apelo visual e eficiência.
 
@@ -30,7 +30,7 @@ Além do desenvolvimento técnico, cultivo forte curiosidade pelo campo de **Des
 
 ---
 
-### Tecnlogias | Skills
+### Tecnologias | Skills
 
 | Languages & Web | Databases & Services | Tools & Environment |
 | :--- | :--- | :--- |
@@ -39,5 +39,5 @@ Além do desenvolvimento técnico, cultivo forte curiosidade pelo campo de **Des
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/kauanbol/) · [contato.barbosakauan@gmail.com](mailto:contato.barbosakauan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in//) · [kauaevertondelira@gmail.com](mailto:kauaevertondelira@gmail.com)
 
